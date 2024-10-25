@@ -1,4 +1,6 @@
-## Hi there 👋
+#### Robotics and Autonomous Systems Group, Research Engineering Facility
+##### Research Infrastructure 
+##### Queensland University of Technology, Brisbane, Australia
 
 <!--
 
